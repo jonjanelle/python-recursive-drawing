@@ -1,3 +1,3 @@
 # Python Recursive Drawing
 
-* A collection of mostly recursive drawings created using Python and PyGame
+* A collection of recursive drawings created using Python and PyGame
